@@ -2,12 +2,12 @@
 int a = int.Parse(Console.ReadLine());
 Console.WriteLine("Informe o segundo valor!");
 int b = int.Parse(Console.ReadLine());
-if (b !=0)
+try
 {
 int result = a / b;
 Console.WriteLine($"O resultado da divisão dos dois é: {result}");
 }
-else
+catch (Exception ex)
 {
     Console.WriteLine(" Não se pode dividir um número por 0");
 }
