@@ -9,5 +9,5 @@ Console.WriteLine($"O resultado da divisão dos dois é: {result}");
 }
 catch (Exception ex)
 {
-    Console.WriteLine(" Não se pode dividir um número por 0");
+    Console.WriteLine(" Não se pode dividir um número por 0 " + ex.Message);
 }
