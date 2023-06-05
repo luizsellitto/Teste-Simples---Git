@@ -19,3 +19,7 @@ catch (Exception ex)
 {
     Console.WriteLine("Houve um erro\n" + ex.Message);
 }
+finally
+{
+    Console.WriteLine("Executa de qualquer forma(mesmo se estiver errado)");
+}
