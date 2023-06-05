@@ -1,0 +1,15 @@
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\2º bimestre 2\Teste Simples - Git\Teste Simples - Git\bin\Debug\net6.0\Teste Simples - Git.exe
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\2º bimestre 2\Teste Simples - Git\Teste Simples - Git\bin\Debug\net6.0\Teste Simples - Git.deps.json
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\2º bimestre 2\Teste Simples - Git\Teste Simples - Git\bin\Debug\net6.0\Teste Simples - Git.runtimeconfig.json
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\2º bimestre 2\Teste Simples - Git\Teste Simples - Git\bin\Debug\net6.0\Teste Simples - Git.dll
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\2º bimestre 2\Teste Simples - Git\Teste Simples - Git\bin\Debug\net6.0\Teste Simples - Git.pdb
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\2º bimestre 2\Teste Simples - Git\Teste Simples - Git\obj\Debug\net6.0\Teste Simples - Git.csproj.AssemblyReference.cache
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\2º bimestre 2\Teste Simples - Git\Teste Simples - Git\obj\Debug\net6.0\Teste Simples - Git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\2º bimestre 2\Teste Simples - Git\Teste Simples - Git\obj\Debug\net6.0\Teste Simples - Git.AssemblyInfoInputs.cache
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\2º bimestre 2\Teste Simples - Git\Teste Simples - Git\obj\Debug\net6.0\Teste Simples - Git.AssemblyInfo.cs
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\2º bimestre 2\Teste Simples - Git\Teste Simples - Git\obj\Debug\net6.0\Teste Simples - Git.csproj.CoreCompileInputs.cache
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\2º bimestre 2\Teste Simples - Git\Teste Simples - Git\obj\Debug\net6.0\Teste Simples - Git.dll
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\2º bimestre 2\Teste Simples - Git\Teste Simples - Git\obj\Debug\net6.0\refint\Teste Simples - Git.dll
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\2º bimestre 2\Teste Simples - Git\Teste Simples - Git\obj\Debug\net6.0\Teste Simples - Git.pdb
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\2º bimestre 2\Teste Simples - Git\Teste Simples - Git\obj\Debug\net6.0\Teste Simples - Git.genruntimeconfig.cache
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\2º bimestre 2\Teste Simples - Git\Teste Simples - Git\obj\Debug\net6.0\ref\Teste Simples - Git.dll
